@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'Traductoronline'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C105862ACC224CC1B23CEBD0ADC3529C }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_12A5AA1700244CF3B1AC6B044619EA52 }}
